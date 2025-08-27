@@ -67,3 +67,6 @@ set_party_name = {
 set_research_slots = 2
 set_stability = 0.5
 set_war_support = 0.3
+
+
+Бля чуваки, оставили лучше бы старые теги, хочу работать у вас
